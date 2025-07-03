@@ -39,27 +39,23 @@ By leveraging data-driven insights, Blinkit can optimize operations, improve cus
 
 ✅ **Fat Content Preference**
 
-- Regular fat content items dominate sales, suggesting a taste preference over low-fat options.
+- Low fat content items dominate sales, suggesting a low-fat options preference.
 
 ✅ **Outlet Size Distribution**
 
 - Medium-sized outlets generate the highest sales, highlighting an efficient balance between variety and operational costs.
 
-✅ **Outlet Type Performance**
-
-- Supermarket Type 1 outlets show the highest total sales (**$787K**) but slightly lower ratings, indicating opportunities for service improvement.
-
 ✅ **Sales Trends Over Time**
 
-- Significant peaks around **2018** and **2020**, signaling successful expansion phases and marketing campaigns.
+- Significant peaks around **2018**, signaling successful expansion phases and marketing campaigns.
 
 ---
 
 ## 🛠️ Tools Used
 
 - **Power BI** — Interactive data visualization and dashboard creation.
-- **Excel / SQL** — Data cleaning and preparation (assumed from workflow).
-- **DAX (Data Analysis Expressions)** — Creating measures and dynamic filtering.
+- **Excel / SQL** — Data cleaning and preparation.
+- **DAX** — Creating measures and dynamic filtering.
 
 ---
 
